@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FoodAKBL">
         <activity
-            android:name=".menu"
+            android:name=".recipe"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
