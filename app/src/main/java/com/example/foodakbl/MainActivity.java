@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         Intent intent = new Intent(MainActivity.this, recipe.class);
         startActivity(intent);
+        // TODO: 横向滚动选择栏
 
         Button bt_play;
         bt_play=(Button)findViewById(R.id.play);
